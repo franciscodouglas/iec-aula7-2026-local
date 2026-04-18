@@ -20,3 +20,7 @@ Exemplo de repositório local
 - git branch -r: listar as branchs remotas
 
 - git branch -a: listar todas as branchs (remota e locais)
+
+- git show <hash_commit>:  visualizar o conteúdo  commit
+
+- git log: exibir o histórico de commits
