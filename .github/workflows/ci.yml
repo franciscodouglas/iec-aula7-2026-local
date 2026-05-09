@@ -1,0 +1,10 @@
+name: Meu primeiro Workflow
+
+on: push
+
+jobs:
+  tarefa-teste:
+    runs-on: ubuntu-latest
+    steps:
+      name: Exibir mensagem
+      run: echo "Olá mundo"
